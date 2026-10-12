@@ -17,13 +17,23 @@ EnableComments controls whether or not the comments form will be shown when view
 
 # Images
 
+## Website name changing update example:
+
 ![Website Name Example](assets/websitename_example.png)
+
+## Comments form example:
 
 ![Comments Example](assets/comments_example.png)
 
+## Post viewing example:
+
 ![View](assets/create.png)
 
+## Home example:
+
 ![Home](assets/home.png)
+
+## Post creation example:
 
 ![Post](assets/post.png)
 
